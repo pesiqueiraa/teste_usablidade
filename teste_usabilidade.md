@@ -1,4 +1,4 @@
-# Teste de Usabilidade: Tela de Criação de Ocorrência
+# Teste de Usabilidade
 
 ## 1. Tela Analisada - Formulário de Criação de Ocorrência
 
