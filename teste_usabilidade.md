@@ -1,8 +1,7 @@
 # Teste de Usabilidade: Tela de Criação de Ocorrência
 
-## 1. Tela(s) Analisada(s)
+## 1. Tela Analisada - Formulário de Criação de Ocorrência
 
-**Tela:** Formulário de Criação de Ocorrência
 
 <div align="center">
 
